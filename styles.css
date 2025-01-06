@@ -1,1 +1,26 @@
-h1 {color:blueviolet;}
+/*typefaces*/
+
+/*Inclusive Sans, Lexend, Libre Franklin*/
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans:ital@0;1&family=Lexend:wght@100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+/*h2*/
+@import url();
+
+/*Background Styles*/
+    body {
+        background-color: rgb(216, 216, 216);}
+
+/*Head styles*/
+    header {
+        color:#000; 
+        font-family: lexend;
+        font-weight: 900;
+        font-size: 30px}
+
+/*Body Styles*/
+
+/*Navigation Menu*/
+    .nav {
+        font-family: Inclusive Sans;
+        color: #ff0000;
+        text-decoration: none;
+    }
